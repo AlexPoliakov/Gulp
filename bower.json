@@ -1,0 +1,21 @@
+{
+  "name": "gulp_test_js",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "AlexPoliakov <naemnik2006@ukr.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AlexPoliakov/myLabs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "normalize.css": "*"
+  }
+}
